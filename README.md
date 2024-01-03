@@ -1,18 +1,14 @@
 <h1 align="center">Hello, i'm Naekaa👋</h1>
-<h3 align="center">Sound engineer with a passion for development.</h3>
+<h3 align="center">A junior web developer</h3>
 
-- 🔭 I’m currently working on <a href="https://github.com/Seventy-Records" target="_blank">Seventy Records</a>
 - 🌱 I’m currently learning **Laravel**, **CSS**, **PHP**, **HTML**, **Java**
-- 👯 I collaborate with <a href="https://instagram.com/tsuyamuzik" target="_blank">Tsuya</a>
 - 💬 Ask me about **music**
-- 📫 How to reach me: <a href="mailto:enoyamusic@gmail.com">enoyamusic@gmail.com</a>
+- 📫 How to reach me: <a href="mailto:contact@hanaemercier.dev">contact@hanaemercier.dev</a>
 - 😄 Pronouns: **she/her**
 - ⚡ Fun fact: **I'm trans** 🏳️‍⚧️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/enoyamusic" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@enoyamusic" height="30" width="40" />@enoyamusic</a>
-<a href="https://instagram.com/label7tyrecords" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@label7tyrecords" height="30" width="40" />@label7tyrecords</a>
 <a href="https://discord.com/users/978332508699639828"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@naekaa" height="30" width="40" />@naekaa</a>
 </p>
 
