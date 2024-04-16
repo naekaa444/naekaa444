@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.com/users/978332508699639828"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@naekaa" height="30" width="40" />@naekaa</a>
+<a href="https://discord.com/users/1229435315786350686"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@naekaa" height="30" width="40" />@hanaemercier</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
