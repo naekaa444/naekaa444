@@ -1,4 +1,4 @@
-<h1 align="center">Hello, i'm Naekaa👋</h1>
+<h1 align="center">Hello, i'm Hanaé Mercier👋</h1>
 <h3 align="center">A junior web developer</h3>
 
 - 🌱 I’m currently learning **Laravel**, **CSS**, **PHP**, **HTML**, **Java**
